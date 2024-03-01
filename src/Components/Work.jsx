@@ -8,7 +8,7 @@ import project6 from "../assets/images/proj6.png";
 
 const Work = () => {
   return (
-    <div className="max-w-[1200px] mx-auto p-5">
+    <div className="max-w-[1200px] mx-auto p-5" id="work">
       <div className="pb-8">
         <p className="text-4xl mb-3 font-bold primary-color">Work</p>
         <p className="text-gray-400">Check Out Some Of My Recent Work</p>
