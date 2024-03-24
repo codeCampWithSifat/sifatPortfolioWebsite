@@ -23,6 +23,12 @@ const Navbar = () => {
             {" "}
             <a href="#contact">Contact</a>
           </li>
+          <li className="p-4">
+            {" "}
+            <a href="https://github.com/codeCampWithSifat" target="_blank">
+              GitHub
+            </a>
+          </li>
         </ul>
         <div onClick={handleNav} className="block md:hidden mr-6">
           {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
@@ -48,6 +54,12 @@ const Navbar = () => {
             <li className="p-4">
               {" "}
               <a href="#contact">Contact</a>
+            </li>
+            <li className="p-4">
+              {" "}
+              <a href="https://github.com/codeCampWithSifat" target="_blank">
+                GitHub
+              </a>
             </li>
           </ul>
         </div>
