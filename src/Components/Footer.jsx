@@ -7,7 +7,7 @@ const Footer = () => {
       id="company"
     >
       <p className="my-5 text-gray-500">
-        All Right Reserverd <br /> sayedhossainsifat100
+        All Right Reserverd <br /> sayedhossainsifat100@gmail.com
       </p>
       <div className="inline-flex text-gray-500 gap-4 text-3xl">
         <a href="https://github.com/codeCampWithSifat" target="_blank">
